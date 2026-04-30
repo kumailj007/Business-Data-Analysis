@@ -144,4 +144,4 @@ Headline KPIs:
 
 ## Author
 
-**Kumail Janjua** — BSc Computer Science, Linnaeus University (graduating May 2026)
+**Kumail Janjua** — BSc Computer Science 2026
