@@ -1,0 +1,9 @@
+{
+  "total_revenue_eur": 59026.0,
+  "total_orders": 100,
+  "unique_customers": 20,
+  "avg_order_value": 590.26,
+  "top_product": "Laptop",
+  "top_region": "South",
+  "top_category": "Electronics"
+}
